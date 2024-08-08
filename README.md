@@ -5,7 +5,7 @@ I am Jinwen and very happy to see you here.
 You can visit my personal site on:
 https://techguru.super.site/
 or
-techguruj.github.io
+https://techguruj.github.io/
 
 or write me on techguruj(at)hotmail.com
 <!--
