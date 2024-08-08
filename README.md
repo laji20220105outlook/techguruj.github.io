@@ -7,7 +7,7 @@ https://techguru.super.site/
 or
 https://techguruj.github.io/
 
-or write me on techguruj(at)hotmail.com
+or write me on techguruj@hotmail.com
 <!--
 **techguruj/techguruj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
