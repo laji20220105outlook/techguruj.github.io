@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Jinwen and very happy to see you here.
+
+You can visit my personal site on:
+https://techguru.super.site/
+or
+Breadcrumbstechguruj.github.io
+
+or write me on techguruj(at)hotmail.com
 <!--
 **techguruj/techguruj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
